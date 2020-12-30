@@ -1,0 +1,22 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "This is a gardient generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaravindan/Test-Project.git"
+  },
+  "keywords": [
+    "Gradient"
+  ],
+  "author": "Aravindan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iaravindan/Test-Project/issues"
+  },
+  "homepage": "https://github.com/iaravindan/Test-Project#readme"
+}
